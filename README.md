@@ -6,10 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Thanks for checking out this project. This is my final project for Codecademy's Front End Web Development career path. It is not complete at this time (I have included a to-do list in this file below), but this is a mostly complete, static version of this site.
 
-### Screenshot
-
-![](./bhr.PNG)
-
 ### Links
 
 - Live Site URL: [Live](https://eli-jones-bhr.netlify.app/)
