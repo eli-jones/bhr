@@ -1,0 +1,36 @@
+.no-page {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--beige);
+    margin-top: 2.5rem;
+    height: 74.5vh;
+}
+
+.no-page-text {
+    margin-left: 2rem;
+    width: 30vw;
+}
+
+.no-page-text h3 {
+    line-height: 3rem;
+    font-size: 2.5rem;
+}
+
+.no-page-text p {
+    margin-top: 1.5rem;
+}
+
+.image {
+    border-radius: 55px;
+}
+
+.no-page-text span {
+    cursor: pointer;
+}
+
+.source {
+    font-size: 0.75rem;
+    font-style: italic;
+}

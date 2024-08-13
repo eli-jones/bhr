@@ -1,0 +1,47 @@
+.page {
+    background-color: var(--beige);
+    height: 105vh;
+    display: flex;
+    justify-content: center;
+}
+
+.banner {
+    width: 54vw;
+}
+
+.process {
+    margin-top: 2rem;
+    width: 55vw;
+}
+
+.process h2 {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.process p {
+    margin-bottom: 1rem;
+}
+
+.process button {
+    background-color: var(--mblue);
+    color: var(--beige);
+    padding: 10px 15px;
+    border-radius: 0.15rem;
+    margin-top: 1rem;
+    transition: background-color 100ms ease-in-out;
+}
+
+.process button:hover {
+    background-color: var(--green);
+}
+
+.process button:active,
+.process button:focus {
+    background-color: var(--dblue);
+}
+
+.link-text {
+    color: var(--mblue);
+    text-decoration: underline;
+}

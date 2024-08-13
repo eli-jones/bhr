@@ -1,0 +1,22 @@
+.dropdown {
+    flex-direction: column;
+    z-index: 1;
+}
+
+.desktop-nav .dropdown {
+    display: none;
+    margin-top: 14px;
+    padding-bottom: 5px;
+}
+
+.desktop-nav .dropdown.show {
+    display: block;
+    position: absolute;
+    margin-left: -15px;
+}
+
+.dropdown .menu-items {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+}

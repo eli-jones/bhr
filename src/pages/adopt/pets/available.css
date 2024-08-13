@@ -1,0 +1,32 @@
+.pet-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--lblue);
+    margin-top: 2.5rem;
+    min-height: 50vh;
+}
+
+.content {
+    width: 60vw;
+}
+
+.content h2 {
+    margin-top: 2rem;
+}
+
+.aap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aap p {
+    color: var(--mblue);
+}
+
+.aap img {
+    width: 10rem;
+    margin-top: -2rem;
+}
