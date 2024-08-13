@@ -9,6 +9,7 @@ Thanks for checking out this project. This is my final project for Codecademy's 
 ### Links
 
 - Live Site URL: [Live](https://eli-jones-bhr.netlify.app/)
+- Currently not live because images lack alt text (I have temp images in place, I will add alt text once those are more final)
 
 ## My process
 
